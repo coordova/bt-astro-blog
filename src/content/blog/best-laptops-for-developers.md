@@ -1,9 +1,9 @@
 ---
-title: 'The best laptops for developers in 2024'
+title: "The best laptops for developers in 2024"
 pubDate: 2024-01-20
-author: 'John Doe'
-image: 'image1.png'
-tags: ['tech', 'hardware']
+author: "John Doe"
+image: "image1.png"
+tags: ["tech", "hardware"]
 slug: the-best-laptops-for-developers-in-2024
 ---
 
