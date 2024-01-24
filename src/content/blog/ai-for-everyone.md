@@ -1,6 +1,6 @@
 ---
 title: "How artificial intelligence is transforming the world"
-pubDate: 2024-01-16
+pubDate: 2024-01-24
 author: "Darrell M. West & John R. Allen"
 image: "image8.jpg"
 tags: ["AI", "Artificial", "Intelligence", "Tech"]
